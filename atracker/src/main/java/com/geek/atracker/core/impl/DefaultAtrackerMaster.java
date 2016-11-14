@@ -27,9 +27,7 @@ public class DefaultAtrackerMaster  implements AtrackerMaster{
 	
 	public DefaultAtrackerMaster(){
 		this.isEnable=true; 
-		this.trackContext=new DefaultAtrackerContext();
-		
-		
+		this.trackContext=new DefaultAtrackerContext();  
 	}
 
 	 
