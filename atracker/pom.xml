@@ -3,4 +3,11 @@
   <groupId>com.geek</groupId>
   <artifactId>atracker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>redis.clients</groupId>
+  		<artifactId>jedis</artifactId>
+  		<version>3.0.0-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
